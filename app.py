@@ -192,7 +192,115 @@ restaurants = [
         "restaurant_name": "Restaurant Thirty",
         "status": "Open",
         "image_url": "https://images.pexels.com/photos/776538/pexels-photo-776538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    }
+    }, {
+        "id": 31,
+        "location": "Makati",
+        "restaurant_name": "Restaurant Six",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5490830/pexels-photo-5490830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },{ 
+        "id": 32,
+        "location": "Manila",
+        "restaurant_name": "Restaurant Twenty Eight",
+        "status": "Closed",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, { 
+        "id": 33,
+        "location": "Boracay",
+        "restaurant_name": "Restaurant  Twenty Six",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/11439363/pexels-photo-11439363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+   }, {
+        "id": 34,
+        "location": "Alabang",
+        "restaurant_name": "Restaurant Sixteen",
+        "status": "Closed",
+        "image_url": "https://images.pexels.com/photos/11808194/pexels-photo-11808194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 36,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 37,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 38,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 40,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {  
+         "id": 41,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, { 
+         "id": 42,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, { 
+         "id": 43,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }, { 
+         "id": 44,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 45,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 46,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+        "id": 47,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+         "id": 48,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+         "id": 49,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
+         "id": 50,
+        "location": "Tala",
+        "restaurant_name": "Restaurant Twelve",
+        "status": "Open",
+        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, {
 ]
 
 
