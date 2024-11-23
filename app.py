@@ -195,112 +195,113 @@ restaurants = [
     }, {
         "id": 31,
         "location": "Makati",
-        "restaurant_name": "Restaurant Six",
+        "restaurant_name": "Restaurant Thirty One",
         "status": "Open",
         "image_url": "https://images.pexels.com/photos/5490830/pexels-photo-5490830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },{ 
         "id": 32,
         "location": "Manila",
-        "restaurant_name": "Restaurant Twenty Eight",
+        "restaurant_name": "Restaurant Thirty Two",
         "status": "Closed",
         "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, { 
         "id": 33,
         "location": "Boracay",
-        "restaurant_name": "Restaurant  Twenty Six",
+        "restaurant_name": "Restaurant  Thirty Three",
         "status": "Open",
         "image_url": "https://images.pexels.com/photos/11439363/pexels-photo-11439363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
    }, {
         "id": 34,
         "location": "Alabang",
-        "restaurant_name": "Restaurant Sixteen",
+        "restaurant_name": "Restaurant Thirty Four",
         "status": "Closed",
         "image_url": "https://images.pexels.com/photos/11808194/pexels-photo-11808194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
         "id": 36,
         "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "restaurant_name": "Restaurant Thirty Seven",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/16997158/pexels-photo-16997158/free-photo-of-empty-seats-in-restaurant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
         "id": 37,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Caloocan",
+        "restaurant_name": "Restaurant Thirty Eight",
         "status": "Open",
         "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
         "id": 38,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Makati",
+        "restaurant_name": "Restaurant Thirty Nine",
         "status": "Open",
         "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
         "id": 40,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Mandaluyong",
+        "restaurant_name": "Restaurant Fourty",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/761854/pexels-photo-761854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {  
          "id": 41,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Caloocan",
+        "restaurant_name": "Restaurant Fourty One",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/12317827/pexels-photo-12317827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, { 
          "id": 42,
         "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "restaurant_name": "Restaurant Fourty Two",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/12876503/pexels-photo-12876503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, { 
          "id": 43,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Makati",
+        "restaurant_name": "Restaurant Fourty Three",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-  }, { 
-         "id": 44,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "image_url": "https://images.pexels.com/photos/17001738/pexels-photo-17001738/free-photo-of-decorated-tables-for-wedding-in-luxury-restaurant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }, { 
+        "id": 44,
+        "location": "Laguna",
+        "restaurant_name": "Restaurant Fourty Four",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/28617375/pexels-photo-28617375/free-photo-of-contemporary-game-table-in-dubai-apartment.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
         "id": 45,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Mandaluyong",
+        "restaurant_name": "Restaurant Fourty Five",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/28593083/pexels-photo-28593083/free-photo-of-cozy-restaurant-in-dubai-with-elegant-decor.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
         "id": 46,
         "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "restaurant_name": "Restaurant Fourty Six",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/28442306/pexels-photo-28442306/free-photo-of-charming-outdoor-cafe-seating-at-mokador.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
         "id": 47,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Caloocan",
+        "restaurant_name": "Restaurant Fourty Seven",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/15268897/pexels-photo-15268897/free-photo-of-aesthetic-coffee-shop-wallpaper.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
          "id": 48,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Rizal",
+        "restaurant_name": "Restaurant Fourty Eight",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/18854710/pexels-photo-18854710/free-photo-of-woman-browsing-the-menu-at-an-outdoor-restaurant-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
          "id": 49,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Baguio",
+        "restaurant_name": "Restaurant Fourty Nine",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image_url": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }, {
          "id": 50,
-        "location": "Tala",
-        "restaurant_name": "Restaurant Twelve",
+        "location": "Boracay",
+        "restaurant_name": "Restaurant Fifty",
         "status": "Open",
-        "image_url": "https://images.pexels.com/photos/5864548/pexels-photo-5864548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    }, {
+        "image_url": "https://images.pexels.com/photos/16997158/pexels-photo-16997158/free-photo-of-empty-seats-in-restaurant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+    
 ]
 
 
